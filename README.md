@@ -43,3 +43,4 @@ Use the same value you entered for `ADMIN_TOKEN`.
 After creating a user, the panel generates a VLESS URL using the current hostname.
 
 This first version intentionally supports TCP only. UDP/MUX/fragmentation/IP rotation are not included yet.
+<!-- update -->
