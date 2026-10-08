@@ -1,0 +1,14 @@
+name = "mini-zeus"
+main = "src/index.js"
+compatibility_date = "2026-10-08"
+
+[vars]
+WS_PATH = "/ws"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "mini-zeus-db"
+database_id = "PUT_DATABASE_ID_HERE"
+
+[secrets]
+required = ["ADMIN_TOKEN"]
